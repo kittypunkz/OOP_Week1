@@ -2,3 +2,13 @@ C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.GeneratedMSBuildEditorConfig
 C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.AssemblyInfoInputs.cache
 C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.AssemblyInfo.cs
 C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.csproj.CoreCompileInputs.cache
+C:\Programming\OOP_Week1\bin\Debug\net7.0\OOP_Week1.exe
+C:\Programming\OOP_Week1\bin\Debug\net7.0\OOP_Week1.deps.json
+C:\Programming\OOP_Week1\bin\Debug\net7.0\OOP_Week1.runtimeconfig.json
+C:\Programming\OOP_Week1\bin\Debug\net7.0\OOP_Week1.dll
+C:\Programming\OOP_Week1\bin\Debug\net7.0\OOP_Week1.pdb
+C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.dll
+C:\Programming\OOP_Week1\obj\Debug\net7.0\refint\OOP_Week1.dll
+C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.pdb
+C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.genruntimeconfig.cache
+C:\Programming\OOP_Week1\obj\Debug\net7.0\ref\OOP_Week1.dll
