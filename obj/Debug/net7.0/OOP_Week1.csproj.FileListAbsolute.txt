@@ -1,0 +1,4 @@
+C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.AssemblyInfoInputs.cache
+C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.AssemblyInfo.cs
+C:\Programming\OOP_Week1\obj\Debug\net7.0\OOP_Week1.csproj.CoreCompileInputs.cache
