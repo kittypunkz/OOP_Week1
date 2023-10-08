@@ -7,11 +7,11 @@ public class Car {
     public int color;
 
     //Car Function
-    public string MoveFoward() {
+    public string MoveForward() {
         return "Move Forward"; 
     }
 
-    public string MoveBack() {
+    public string MoveBackward() {
         return "Move Back";
     }
 }
