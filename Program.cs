@@ -33,6 +33,18 @@
         PrintCarInformation(myVolvo);
         PrintDogDoorInformation(ModelA);
 
+        //Nhong's Solution - Pattern Function
+        UnitConverter feetToInchesConverter = new UnitConverter();
+        feetToInchesConverter.ratio = 12;
+
+        UnitConverter milesToFeetConverter = new UnitConverter();
+        milesToFeetConverter.ratio = 5280;
+
+        Console.WriteLine("Feet to inches: {0}", feetToInchesConverter.Convert(30));
+        Console.WriteLine("Miles to Feet {0}", milesToFeetConverter.Convert(1));
+        Console.WriteLine("Feet to Inches from miles: {0}",
+        feetToInchesConverter.Convert(milesToFeetConverter.Convert(2)));
+
     }
 
     static void PrintCarInformation(Car car) {
